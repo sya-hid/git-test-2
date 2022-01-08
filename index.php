@@ -9,5 +9,10 @@
 <body>
     <h2>Git Remote 2</h2>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod nemo, id aspernatur aliquid, iste nostrum eveniet nihil aut perspiciatis temporibus cumque placeat obcaecati aperiam, ad voluptas qui voluptatibus magnam officia.</p>
+    <ul>
+        <li>Kerja</li>
+        <li>Beli Mobil</li>
+        <li>Nikah</li>
+    </ul>
 </body>
 </html>
